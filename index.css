@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: azure;
+    margin: 20px;
+    height: 50px;
+}
+
+h2 {
+    width: auto;
+    height: 40px;
+    color: azure;
+    background-color: black;
+    text-align: center;
+    padding: auto 30px;
+}
+
+.box {
+    min-height: 50px;
+    background-color: aqua;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+}
+
+input {
+    margin: 5px;
+}
+
+#input_submit {
+    width: auto;
+    height: 50px;
+    color: azure;
+    background-color: black;
+    text-align: center;
+    padding: 0px 30px;
+    margin: 10px
+}
+
+.dlt-btn,
+.edit-btn {
+    position: sticky;
+    background-color: black;
+    color: aqua;
+    margin: 10px;
+}
+
+li {
+    background-color: aqua;
+    margin: 10px;
+    padding: 5px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+#category {
+    margin: 5px;
+}
